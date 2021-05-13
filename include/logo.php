@@ -1,0 +1,1 @@
+<a href="/"><img width="913" src="/local/templates/.default/img/logo/logo.png" height="206"></a><br>

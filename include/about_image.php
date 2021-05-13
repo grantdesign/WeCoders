@@ -1,0 +1,1 @@
+<img width="600" src="/local/templates/.default/img/about/o_nas_text_block.jpg" height="397">

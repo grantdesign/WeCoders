@@ -1,0 +1,7 @@
+ul.main-menu li a.selected:link,
+ul.main-menu li a.selected:visited,
+ul.main-menu li a.selected:active,
+ul.main-menu li a.selected:hover
+{
+	color:#03A9F4;
+}
